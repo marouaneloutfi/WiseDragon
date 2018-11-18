@@ -1,0 +1,1 @@
+                                 <p class="copyright">&copy; rottenc inc. All rights reserved</p>
